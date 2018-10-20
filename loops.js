@@ -47,3 +47,4 @@ var math = {
 
 math.add(7, 8)
 math.subtract(9, 4)
+math.multiply(3, 4)
