@@ -10,8 +10,10 @@ for (i=0; i < table.length; i++) {
     console.log(table[i][j]);
 }}
 
-var personOne = {firstName: Terry, lastName: Brown, age: 29};
-var personTwo = {firstName: Nate, lastName: Rakestraw, age: 30};
-var personThree = {firstName: Sarah, lastName: Brown, age: 31};
+var personOne = {firstname: "Terry", lastname: "Brown", age: 29};
+var personTwo = {firstname: "Nate", lastname: "Rakestraw", age: 30};
+var personThree = {firstname: "Sarah", lastname: "Brown", age: 31};
 
 var friends = [personOne, personTwo, personThree];
+
+console.log(friends.personOne.firstname);
