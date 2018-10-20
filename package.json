@@ -1,0 +1,23 @@
+{
+  "name": "javascript-week-3",
+  "version": "0.0.1",
+  "description": "practice",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptbrown4/javascript-week-3.git"
+  },
+  "author": "Terry Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptbrown4/javascript-week-3/issues"
+  },
+  "homepage": "https://github.com/ptbrown4/javascript-week-3#readme"
+}
